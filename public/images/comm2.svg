@@ -1,0 +1,9 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.5" y="7.13672" width="11.1121" height="11.1121" fill="#A100FF" stroke="white" stroke-linejoin="round"/>
+<rect x="37.5132" y="30.8369" width="11.1121" height="11.1121" fill="#202020" stroke="white" stroke-linejoin="round"/>
+<rect x="68.3879" y="54.1025" width="11.1121" height="11.1121" fill="#A100FF" stroke="white" stroke-linejoin="round"/>
+<path vector-effect="non-scaling-stroke" d="M11.9594 13.04H68.9088C72.2077 13.0979 78.8055 15.6097 78.8055 25.1939C78.8055 34.7781 72.2077 36.8269 68.9088 36.6532H52.4143" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path vector-effect="non-scaling-stroke" d="M62.2241 60.1025H11.612C8.31314 60.0447 1.71533 57.5329 1.71533 47.9487C1.71533 38.3645 8.31314 36.3157 11.612 36.4894H37.25" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path vector-effect="non-scaling-stroke" d="M67.802 23.1257L51.7198 36.6962L67.802 50.2666" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path vector-effect="non-scaling-stroke" d="M46.8583 73.7063L62.9404 60.1359L46.8583 46.5654" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

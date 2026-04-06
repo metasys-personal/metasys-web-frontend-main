@@ -1,0 +1,276 @@
+{
+    "nav": {
+    "whatWeDo": "What we do",
+    "whatWeThink": "What we think",
+    "whoWeAre": "Who we are",
+    "careers": "Careers"
+  },
+  "hero": {
+    "tagline1": "INNOVATION &",
+    "tagline2": "REINVENTION",
+    
+    "title": "Accelerating the future",
+    "description": "We deliver end-to-end management and technology consulting that helps organizations unlock new levels of performance. From AI and cloud transformation to emerging technologies, we design digital strategies that drive measurable, real-world impact.",
+    "cta1": "Request a proposal",
+    "cta2": "See more"
+  },
+  "services": {
+    "title": "Services",
+    "expand": "Expand"
+    
+  },
+  "value": {
+    "quote": "AI alone does not create value. Value is realized through the reinvention of work, workforce, and tools. We are ensuring we lead the way by undergoing our own transformation.",
+    "attribution": "Emily Townsend, quoted in Fortune, August/September 2025",
+    "readMore": "Read more",
+    "valueTitle": "Delivering 360° Value",
+    "valueDescription": "Our commitment to creating lasting success is multi-dimensional. It’s about seeing the bigger picture and understanding that true value is created not just for our clients, but with our people and for our communities. Each dimension represents a core pillar of our promise to deliver exceptional, all-encompassing results.",
+    "seeReport": "Read More"
+  },
+  "insights": {
+    "title": "Insights",
+    "viewAll": "View all"
+  },
+  "articles": {
+    "title": "Articles",
+    "viewAll": "View all"
+  },
+  "news": {
+    "title": "Metasys News"
+  },
+  "slider": {
+    "readMore": "Read more"
+  },
+"footer": {
+  "company": "Metasys",
+  "companyDescription": "Driving innovation and transformation globally. Empowering businesses with digital strategies and solutions.",
+  "quickLinks": "Quick Links",
+  "contact": "Contact",
+  "email": "info@metasysglobal.com",
+  "newsletter": "Stay in the loop",
+  "locations": "Locations",
+  "copyright": "© Metasys. All Rights Reserved.",
+
+  "offices": {
+    "us": {
+      "title": "World Headquarters",
+      "address": "1412 Broadway, New York, NY, 10018, USA"
+    },
+    "india": {
+      "title": "India Headquarters (Hyderabad)",
+      "address": "Jubilee Hills Road No 12, Hyderabad, Telangana, 500028, India"
+    },
+    "australia": {
+      "title": "Australia Headquarters (Melbourne)",
+      "address": "55 Collins St, Melbourne, Victoria, 3000, Australia"
+    },
+    "canada": {
+      "title": "Canada Headquarters (Vancouver)",
+      "address": "555 Burrard St, Vancouver, British Columbia, V7X 1M8, Canada"
+    }
+  },
+
+  "links": {
+    "home": "Home",
+    "services": "Services",
+    "careers": "Careers",
+    "about": "About Us",
+    "contact": "Contact",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "cookie": "Cookie Policy / Settings",
+    "accessibility": "Accessibility Statement",
+    "privacy-statement": "Privacy Statement"
+  }
+  },
+
+  "capabilities": {
+  "cloud": "Cloud",
+  "customerService": "Customer Service",
+  "cybersecurity": "Cybersecurity",
+  "dataAI": "Data and Artificial Intelligence",
+  "digitalEngineering": "Digital Engineering and Manufacturing",
+  "ecosystemPartners": "Ecosystem Partners",
+  "emergingTech": "Emerging Technology",
+  "financeRisk": "Finance and Risk Management",
+  "infrastructure": "Infrastructure and Capital Projects",
+  "learning": "Learning",
+  "managedServices": "Managed Services",
+  "marketingExperience": "Marketing and Experience",
+  "metaverse": "Metaverse",
+  "salesCommerce": "Sales and Commerce",
+  "strategy": "Strategy",
+  "supplyChain": "Supply Chain",
+  "sustainability": "Sustainability",
+  "talentOrg": "Talent and Organization",
+  "techTransformation": "Technology Transformation"
+ },
+ "industries": {
+  "aerospaceDefense": "Aerospace and Defense",
+  "automotive": "Automotive",
+  "banking": "Banking",
+  "capitalMarkets": "Capital Markets",
+  "chemicals": "Chemicals",
+  "communicationsMedia": "Communications and Media",
+  "consumerGoods": "Consumer Goods and Services",
+  "energy": "Energy",
+  "health": "Health",
+  "highTech": "High Tech",
+  "industrial": "Industrial",
+  "insurance": "Insurance",
+  "lifeSciences": "Life Sciences",
+  "naturalResources": "Natural Resources",
+  "publicService": "Public Service",
+  "privateEquity": "Private Equity",
+  "retail": "Retail",
+  "softwarePlatforms": "Software and Platforms",
+  "travel": "Travel",
+  "usFederalGovernment": "US Federal Government",
+  "utilities": "Utilities"
+  },
+
+
+  "careers": {
+    "label": "Careers",
+    "title": "Grow your career at",
+    "subtitle": "the heart of change",
+    "description": "It's your time to shine. Bring your ingenuity, curiosity, and big ideas.",
+    "cta": "Join us"
+  },
+  "solutionsPage": {
+    "heading": "Our Solutions"
+  },
+  
+  "solutions": {
+    "ai": {
+      "title": "AI Solutions",
+      "description": "Harness AI to optimize business processes, automate workflows, and generate actionable insights. Our AI solutions empower organizations to make smarter decisions faster and scale innovation across the enterprise."
+    },
+    "cloud": {
+      "title": "Cloud Transformation",
+      "description": "Migrate, modernize, and scale your infrastructure on leading cloud platforms for agility. We design cloud strategies that reduce operational costs, enhance security, and increase system resilience across global teams."
+    },
+    "data": {
+      "title": "Data & Analytics",
+      "description": "Transform raw data into strategic decisions with advanced analytics, dashboards, and visualization tools. We help organizations harness data to uncover insights, predict trends, and drive measurable business outcomes."
+    },
+    "tech": {
+      "title": "Technology Transformation",
+      "description": "We guide enterprises through complete technology transformation journeys, modernizing legacy systems, implementing cutting-edge platforms, and fostering innovation to stay ahead in the digital era."
+    },
+    "finance": {
+      "title": "Finance & Risk Management",
+      "description": "Optimize financial operations and manage risk effectively with data-driven strategies, predictive analytics, and regulatory-compliant frameworks. We enable better decision-making and resilient business models."
+    },
+    "emerging": {
+      "title": "Emerging Technology",
+      "description": "Explore and implement emerging technologies such as blockchain, IoT, and next-gen AI to gain a competitive edge. Our experts identify opportunities, design pilots, and scale innovations that transform business outcomes."
+    }
+  },
+ 
+  
+  "who": {
+    "title": "About Metasys",
+    "description": "We're not just consultants — we're transformation partners. Metasys helps organizations lead confidently in a connected, rapidly changing world."
+  },
+  "whatwedo": {
+    "title": "What we do",
+    "capabilities": "Capabilities",
+    "industries": "Industries"
+  },
+  "careersDropDown": {
+    "homepage": "Careers Homepage",
+    "sections": {
+      "find": "Find a job",
+      "life": "Life at Metasys",
+      "hire": "How we hire"
+    },
+    "findJob": {
+      "searchJobs": "Search for Jobs",
+      "careerAreas": "Career Areas"
+    },
+    "life": {
+      "working": "Working Here",
+      "benefits": "Benefits",
+      "environment": "Work Environment",
+      "blog": "Careers Blog"
+    },
+    "hire": {
+      "usingAI": "Using AI",
+      "journey": "Hiring Journey",
+      "tips": "Pro Tips"
+    }
+  },
+
+
+  
+  "whoweare": {
+    "title": "Who We Are",
+    "description": "Learn more about Metasys’ vision, mission, and core values that drive transformation and innovation for organizations worldwide."
+  },
+  "corevalues": {
+    "title": "Our Core Values",
+    "principles": "Principles",
+    "whychoose": "Why Choose Metasys"
+  },
+  "visionMission": [
+    {
+      "title": "Our Vision",
+      "text": "To be the most trusted partner for strategic transformation, enabling organizations to succeed through innovation, agility, and human empowerment."
+    },
+    {
+      "title": "Our Mission",
+      "text": "Our mission at Metasys is to deliver reliable, scalable, and intelligent technology solutions that empower organizations to work smarter, act faster, and grow sustainably."
+    }
+  ],
+  "coreValuesList": [
+    {
+      "title": "Customer-Centric Thinking",
+      "description": "We start by understanding our customers’ challenges and designing solutions that deliver measurable value, not just features."
+    },
+    {
+      "title": "Excellence in Engineering",
+      "description": "We prioritize quality, performance, and scalability in everything we build – long-term success depends on strong foundations."
+    },
+    {
+      "title": "Accountability & Responsibility",
+      "description": "We take ownership of outcomes, not just tasks. Every team member is empowered to own their work and deliver results."
+    },
+    {
+      "title": "Integrity & Transparency",
+      "description": "We act with honesty, clarity, and ethical standards in all relationships – with customers, partners, and each other."
+    },
+    {
+      "title": "Continuous Learning",
+      "description": "Technology evolves fast, and so do we. We foster curiosity, upskilling, and a growth mindset at every level."
+    },
+    {
+      "title": "Collaboration Across Hierarchies",
+      "description": "Great ideas come from anywhere. We value open communication, teamwork, and respect across roles and disciplines."
+    }
+  ],
+  "principlesList": [
+    {
+      "title": "Build with Purpose",
+      "description": "Every solution we develop is driven by a real business purpose and designed to achieve long-term impact."
+    },
+    {
+      "title": "Quality Over Shortcuts",
+      "description": "We prioritize robust architecture, security, and scalability over quick fixes or short-term gains."
+    },
+    {
+      "title": "Think Long-Term",
+      "description": "Decisions are made with sustainability, maintainability, and future growth in mind – for customers and teams alike."
+    }
+  ],
+  "whyChooseMetasysList": [
+    "Interdisciplinary Expertise",
+    "Future-Oriented Thinking",
+    "Outcome-Driven Delivery",
+    "Global Perspective, Local Execution",
+    "Speed Without Compromising Quality",
+    "Technology-Agnostic Strategy"
+  ]
+
+
+}

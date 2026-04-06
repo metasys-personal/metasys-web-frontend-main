@@ -1,0 +1,251 @@
+{
+  "nav": {
+    "whatWeDo": "Was wir tun",
+    "whatWeThink": "Was wir denken",
+    "whoWeAre": "Wer wir sind",
+    "careers": "Karriere",
+    "searchPlaceholder": "Suche"
+  },
+  "hero": {
+    "tagline1": "ZUSAMMEN WERDEN WIR",
+    "tagline2": "FORMEN WAS",
+    "tagline3": "MÖGLICH IST",
+    "title": "Die Zukunft beschleunigen",
+    "description": "Wir bieten umfassende Management- und Technologieberatung, die Unternehmen dabei hilft, neue Leistungsstufen freizuschalten. Von KI und Cloud-Transformation bis zu Zukunftstechnologien gestalten wir digitale Strategien, die messbare, reale Auswirkungen haben.",
+    "cta1": "Angebot anfordern",
+    "cta2": "Mehr erfahren"
+  },
+  "services": {
+    "title": "Dienstleistungen",
+    "reportLabel": "FORSCHUNGSBERICHT",
+    "expand": "Erweitern"
+  },
+  "solutionsPage": {
+  "heading": "Unsere Lösungen"
+  },
+
+    "solutions": {
+  "ai": {
+    "title": "KI-Lösungen",
+    "description": "Nutzen Sie KI, um Geschäftsprozesse zu optimieren, Arbeitsabläufe zu automatisieren und umsetzbare Erkenntnisse zu gewinnen. Unsere KI-Lösungen befähigen Organisationen, schnellere und intelligentere Entscheidungen zu treffen und Innovationen im gesamten Unternehmen zu skalieren."
+  },
+  "cloud": {
+    "title": "Cloud-Transformation",
+    "description": "Migrieren, modernisieren und skalieren Sie Ihre Infrastruktur auf führenden Cloud-Plattformen für mehr Agilität. Wir entwickeln Cloud-Strategien, die Betriebskosten senken, die Sicherheit erhöhen und die Systemresilienz globaler Teams verbessern."
+  },
+  "data": {
+    "title": "Daten & Analytik",
+    "description": "Verwandeln Sie Rohdaten in strategische Entscheidungen mit fortschrittlicher Analytik, Dashboards und Visualisierungstools. Wir helfen Organisationen, Daten zu nutzen, Trends vorherzusagen und messbare Geschäftsergebnisse zu erzielen."
+  },
+  "tech": {
+    "title": "Technologietransformation",
+    "description": "Wir begleiten Unternehmen durch umfassende Technologietransformationsreisen, modernisieren Altsysteme, implementieren hochmoderne Plattformen und fördern Innovationen, um in der digitalen Ära einen Vorsprung zu behalten."
+  },
+  "finance": {
+    "title": "Finanzen & Risikomanagement",
+    "description": "Optimieren Sie Finanzabläufe und managen Sie Risiken effektiv mit datengetriebenen Strategien, prädiktiver Analytik und regulatorisch konformen Rahmenwerken. Wir ermöglichen fundierte Entscheidungen und widerstandsfähige Geschäftsmodelle."
+  },
+  "emerging": {
+    "title": "Zukunftstechnologien",
+    "description": "Entdecken und implementieren Sie aufkommende Technologien wie Blockchain, IoT und Next-Gen-KI, um einen Wettbewerbsvorteil zu erzielen. Unsere Experten identifizieren Chancen, gestalten Pilotprojekte und skalieren Innovationen, die Geschäftsergebnisse transformieren."
+  }
+ },
+
+  "value": {
+    "quote": "KI ist nur eine Technologie. Der Wert kommt von der Neuerfindung unserer Arbeitsweise, unserer Belegschaft und der Werkzeuge, die wir verwenden… Wir stellen sicher, dass wir bei unserer eigenen Neuerfindung führend sind.",
+    "attribution": "Julie Sweet, zitiert in Fortune, August/September 2025",
+    "readMore": "Mehr erfahren",
+    "valueTitle": "360° WERT",
+    "valueDescription": "Jeden Tag begrüßen wir Veränderungen und schaffen Wert für all unsere Stakeholder auf der ganzen Welt.",
+    "seeReport": "Bericht ansehen"
+  },
+  "insights": {
+    "title": "Einblicke",
+    "viewAll": "Alle anzeigen"
+  },
+  "articles": {
+    "title": "Artikel",
+    "viewAll": "Alle anzeigen"
+  },
+  "news": {
+    "title": "Metasys Nachrichten"
+  },
+  "slider": {
+    "readMore": "Mehr erfahren"
+  },
+  "footer": {
+    "company": "Metasys",
+    "companyDescription": "Förderung von Innovation und Transformation weltweit. Stärkung von Unternehmen mit digitalen Strategien und Lösungen.",
+    "quickLinks": "Schnelllinks",
+    "contact": "Kontakt",
+    "email": "E-Mail: info@metasys.com",
+    "phone": "Telefon: +1 234 567 8900",
+    "address": "Adresse: New York, USA",
+    "newsletter": "Bleib in der Schleife",
+    "copyright": "© 2025 Metasys. Alle Rechte vorbehalten.",
+    "links": {
+      "home": "Startseite",
+      "services": "Dienstleistungen",
+      "careers": "Karriere",
+      "about": "Über uns",
+      "contact": "Kontakt",
+      "privacy": "Datenschutzrichtlinie"
+    }
+  },
+  "capabilities": {
+  "cloud": "Cloud",
+  "customerService": "Kundenservice",
+  "cybersecurity": "Cybersicherheit",
+  "dataAI": "Daten und Künstliche Intelligenz",
+  "digitalEngineering": "Digitale Entwicklung und Fertigung",
+  "ecosystemPartners": "Ökosystempartner",
+  "emergingTech": "Zukunftstechnologien",
+  "financeRisk": "Finanz- und Risikomanagement",
+  "infrastructure": "Infrastruktur und Kapitalprojekte",
+  "learning": "Lernen",
+  "managedServices": "Managed Services",
+  "marketingExperience": "Marketing und Kundenerlebnis",
+  "metaverse": "Metaversum",
+  "salesCommerce": "Vertrieb und Handel",
+  "strategy": "Strategie",
+  "supplyChain": "Lieferkette",
+  "sustainability": "Nachhaltigkeit",
+  "talentOrg": "Talent und Organisation",
+  "techTransformation": "Technologietransformation"
+  },
+  "industries": {
+  "aerospaceDefense": "Luft- und Raumfahrt sowie Verteidigung",
+  "automotive": "Automobilindustrie",
+  "banking": "Bankwesen",
+  "capitalMarkets": "Kapitalmärkte",
+  "chemicals": "Chemieindustrie",
+  "communicationsMedia": "Kommunikation und Medien",
+  "consumerGoods": "Konsumgüter und Dienstleistungen",
+  "energy": "Energie",
+  "health": "Gesundheitswesen",
+  "highTech": "Hochtechnologie",
+  "industrial": "Industrie",
+  "insurance": "Versicherungen",
+  "lifeSciences": "Biowissenschaften",
+  "naturalResources": "Natürliche Ressourcen",
+  "publicService": "Öffentlicher Sektor",
+  "privateEquity": "Private Equity",
+  "retail": "Einzelhandel",
+  "softwarePlatforms": "Software und Plattformen",
+  "travel": "Reisen",
+  "usFederalGovernment": "US-Bundesregierung",
+  "utilities": "Versorgungsunternehmen"
+  },
+  
+  "careers": {
+    "label": "Karriere",
+    "title": "Baue deine Karriere auf",
+    "subtitle": "im Zentrum des Wandels",
+    "description": "Es ist deine Zeit zu glänzen. Bringt deine Einfallsreichtum, Neugier und großen Ideen mit.",
+    "cta": "Tritt uns bei"
+  },
+  
+  
+  "who": {
+    "title": "Über Metasys",
+    "description": "Wir sind keine reinen Berater — wir sind Transformationspartner. Metasys hilft Organisationen, selbstbewusst in einer vernetzten, sich schnell verändernden Welt zu führen."
+  },
+  "whatwedo": {
+    "title": "Was wir tun",
+    "capabilities": "Fähigkeiten",
+    "industries": "Industrien"
+  },
+  "careersDropDown": {
+    "homepage": "Karriere-Startseite",
+    "sections": {
+      "find": "Stelle finden",
+      "life": "Leben bei Metasys",
+      "hire": "Wie wir einstellen"
+    },
+    "findJob": {
+      "searchJobs": "Nach Stellen suchen",
+      "careerAreas": "Karrierebereiche"
+    },
+    "life": {
+      "working": "Hier arbeiten",
+      "benefits": "Leistungen",
+      "environment": "Arbeitsumgebung",
+      "blog": "Karriere-Blog"
+    },
+    "hire": {
+      "usingAI": "KI nutzen",
+      "journey": "Einstellungsweg",
+      "tips": "Profitipps"
+    }
+  },
+  
+
+  "whoweare": {
+  "title": "Wer wir sind",
+  "description": "Erfahren Sie mehr über Metasys’ Vision, Mission und Kernwerte, die Transformation und Innovation für Organisationen weltweit vorantreiben."
+},
+"corevalues": {
+  "title": "Unsere Kernwerte",
+  "principles": "Prinzipien",
+  "whychoose": "Warum Metasys wählen"
+},
+"visionMission": [
+  {
+    "title": "Unsere Vision",
+    "text": "Der vertrauenswürdigste Partner für strategische Transformation zu sein und Organisationen durch Innovation, Agilität und menschliche Ermächtigung zum Erfolg zu verhelfen."
+  },
+  {
+    "title": "Unsere Mission",
+    "text": "Unsere Mission bei Metasys ist es, zuverlässige, skalierbare und intelligente Technologielösungen zu entwickeln, die Organisationen befähigen, smarter zu arbeiten, schneller zu handeln und nachhaltig zu wachsen."
+  }
+],
+"coreValuesList": [
+  {
+    "title": "Kundenorientiertes Denken",
+    "description": "Wir beginnen damit, die Herausforderungen unserer Kunden zu verstehen und Lösungen zu gestalten, die messbaren Wert liefern, nicht nur Funktionen."
+  },
+  {
+    "title": "Exzellente Ingenieurskunst",
+    "description": "Wir priorisieren Qualität, Leistung und Skalierbarkeit in allem, was wir entwickeln – langfristiger Erfolg hängt von starken Grundlagen ab."
+  },
+  {
+    "title": "Verantwortung & Rechenschaft",
+    "description": "Wir übernehmen Verantwortung für Ergebnisse, nicht nur für Aufgaben. Jedes Teammitglied ist befähigt, seine Arbeit zu besitzen und Ergebnisse zu liefern."
+  },
+  {
+    "title": "Integrität & Transparenz",
+    "description": "Wir handeln mit Ehrlichkeit, Klarheit und ethischen Standards in allen Beziehungen – mit Kunden, Partnern und untereinander."
+  },
+  {
+    "title": "Kontinuierliches Lernen",
+    "description": "Technologie entwickelt sich schnell, und wir auch. Wir fördern Neugier, Weiterbildung und eine Wachstumsmentalität auf allen Ebenen."
+  },
+  {
+    "title": "Zusammenarbeit über Hierarchien",
+    "description": "Großartige Ideen kommen von überall. Wir schätzen offene Kommunikation, Teamarbeit und Respekt über Rollen und Disziplinen hinweg."
+  }
+],
+"principlesList": [
+  {
+    "title": "Mit Zweck bauen",
+    "description": "Jede von uns entwickelte Lösung wird von einem echten Geschäftszweck angetrieben und soll langfristige Wirkung erzielen."
+  },
+  {
+    "title": "Qualität über Abkürzungen",
+    "description": "Wir priorisieren robuste Architektur, Sicherheit und Skalierbarkeit über schnelle Lösungen oder kurzfristige Gewinne."
+  },
+  {
+    "title": "Langfristig denken",
+    "description": "Entscheidungen werden mit Blick auf Nachhaltigkeit, Wartbarkeit und zukünftiges Wachstum getroffen – für Kunden und Teams."
+  }
+],
+"whyChooseMetasysList": [
+  "Interdisziplinäre Expertise",
+  "Zukunftsorientiertes Denken",
+  "Ergebnisorientierte Lieferung",
+  "Globale Perspektive, lokale Umsetzung",
+  "Schnelligkeit ohne Qualitätsverlust",
+  "Technologieunabhängige Strategie"
+]
+
+}
